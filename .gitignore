@@ -1,0 +1,9 @@
+# Environment files with secrets
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
